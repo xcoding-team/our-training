@@ -7,3 +7,7 @@ my training information
 ##### 4、[webpack2](https://github.com/wyh2020/my-training/blob/master/webpack2.pdf)
 ##### 5、[git培训](https://github.com/wyh2020/my-training/blob/master/git%E5%9F%B9%E8%AE%AD.pdf)
 ##### 6、[多态、static和final关键字](https://github.com/wyh2020/my-training/blob/master/%E5%A4%9A%E6%80%81%E3%80%81static%E5%92%8Cfinal%E5%85%B3%E9%94%AE%E5%AD%97.pdf)
+##### 7、[ArrayList](https://github.com/wyh2020/my-training/blob/master/ArrayList.pdf)
+##### 8、[LinkedList](https://github.com/wyh2020/my-training/blob/master/LinkedList.pdf)
+##### 9、[ArrayList、LinkedList异同](https://github.com/wyh2020/my-training/blob/master/ArrayList%E3%80%81LinkedList%E5%BC%82%E5%90%8C.pdf)
+##### 10、[hashCode、equals详解](https://github.com/wyh2020/my-training/blob/master/hashCode%E3%80%81equals%E8%AF%A6%E8%A7%A3.pdf)
