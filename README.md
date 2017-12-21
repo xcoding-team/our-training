@@ -18,7 +18,7 @@ our training information
 
 
 
-tips：
+### 【tips】：    
 #####【Java基础】线程】【遗留问题】：
 
 
