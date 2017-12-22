@@ -20,15 +20,17 @@ our training information
 
 
 ### 【tips】：    
-##### 【Java基础】线程】【遗留问题】：    
+##### 【Java基础：线程】【遗留问题】：    
 
 
 
-##### 【Java基础】异常】【遗留问题】：    
+
+##### 【Java基础：异常】【遗留问题】：    
 
 
 
-##### 【Java基础】ArrayList】【遗留问题】：    
+
+##### 【Java基础：ArrayList】【遗留问题】：    
 1、ArrayList 扩容问题；1.5倍 ==》http://baijiahao.baidu.com/s?id=1576524238817524539&wfr=spider&for=pc    
 2、ArrayList 不能add基础类型==>自动装箱拆箱(int->Integer...)    
 3、HashCode值相同==>http://blog.csdn.net/hl_java/article/details/71511815    
