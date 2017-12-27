@@ -15,6 +15,7 @@ our training information
 ##### 12、[【Java基础】异常](https://github.com/xcoding-team/our-training/blob/master/%E3%80%90Java%E5%9F%BA%E7%A1%80%E3%80%91%E5%BC%82%E5%B8%B8.pdf)
 ##### 13、[【你不懂JS】作用域与闭包](https://github.com/xcoding-team/our-training/blob/master/%E3%80%90%E4%BD%A0%E4%B8%8D%E6%87%82JS%E3%80%91%E4%BD%9C%E7%94%A8%E5%9F%9F%E4%B8%8E%E9%97%AD%E5%8C%85.png)
 ##### 14、[【你不懂JS】this](https://github.com/xcoding-team/our-training/blob/master/%E3%80%90%E4%BD%A0%E4%B8%8D%E6%87%82JS%E3%80%91this.pdf)
+##### 15、[vue](https://github.com/xcoding-team/our-training/blob/master/%E3%80%90%E4%BD%A0%E4%B8%8D%E6%87%82JS%E3%80%91this.pdf)
 
 
 
